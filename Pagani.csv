@@ -1,0 +1,10 @@
+Year,Model,FuelType,UnitsSold,AvgPriceUSD,CustomerSatisfaction
+2022,Pagani EV1,Electric,150,2000000,92
+2022,Pagani Diesel1,Diesel,100,1800000,85
+2022,Pagani Petrol1,Petrol,200,1900000,88
+2023,Pagani EV1,Electric,180,2100000,93
+2023,Pagani Diesel1,Diesel,90,1850000,86
+2023,Pagani Petrol1,Petrol,220,1950000,89
+2024,Pagani EV1,Electric,200,2150000,94
+2024,Pagani Diesel1,Diesel,110,1870000,87
+2024,Pagani Petrol1,Petrol,240,2000000,90
